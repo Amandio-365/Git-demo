@@ -11,6 +11,6 @@ main()
     }
     else
     {
-        printf("n是个记述");
+        printf("n是个奇数");
     }
 }
